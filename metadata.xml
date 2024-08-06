@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>true black candle</name>
+    <directory>true black candle</directory>
+    <id>3303663856</id>
+    <description>This mod simply makes it so that Amnesia pills received after picking up Black Candle have no effect! Refer to video to see how it works.The mod also doesn't interfere with any challenges that use curses (e.g. Ultra Hard)
+
+Getting Curse of the Lost after having an item that negates curses makes no sense to me so I decided to do something about it :) 
+
+</description>
+    <version>1.3</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Pills"/>
+</metadata>
