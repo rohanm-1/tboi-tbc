@@ -9,5 +9,5 @@ I wanted to make a modthat I would personally use while playing. I never underst
 after all the curses have been negated with the item so I decided to do something about it 😤
 
 
-<h2>Support the mod 🙏: https://steamcommunity.com/sharedfiles/filedetails/?id=3303663856 <br> </h2>
+<h2>Support the mod 🙏: <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3303663856" target="_blank">https://steamcommunity.com/sharedfiles/filedetails/?id=3303663856</a> <br></h2>
 This project exposed me to so many new technologies I never knew existed. It taught me a lot about coding in Lua and XML files as well as being able to efficiently understand documentation.
